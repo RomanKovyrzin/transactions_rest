@@ -1,1 +1,1 @@
-web: gunicorn transfer.wsgi --log-file -
+web: gunicorn transactions.wsgi --log-file -
