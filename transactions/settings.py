@@ -24,7 +24,7 @@ SECRET_KEY = 'v4a@0o#*88qoc^%k@e)(v!^&%25i0svxibd*w@_*s#f9zm247k'
 # TOKEN for user01: 64449758276431510ac6255ce037995d14b2c160
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['transactions-rest.herokuapp.com', 'localhost', '127.0.0.1', '[::1]']
 
